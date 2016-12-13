@@ -1,4 +1,4 @@
-[ Blender-Sky-Box-Generator
+#Blender-Sky-Box-Generator
 A Visual Tutorial Document (odt) + Blender File (skybox9.blend) for generating a Sky Box in Blender
 
 ##Steps
