@@ -1,4 +1,4 @@
-# Blender-Sky-Box-Generator
+[ Blender-Sky-Box-Generator
 A Visual Tutorial Document (odt) + Blender File (skybox9.blend) for generating a Sky Box in Blender
 
 ##Steps
@@ -11,4 +11,4 @@ A Visual Tutorial Document (odt) + Blender File (skybox9.blend) for generating a
 Steps 3-4 are not part of this tutorial.
 
 ##Skybox Texture Sample
-!(skybox)[https://github.com/professorf/Blender-Sky-Box-Generator/blob/master/Skybox_1.jpg?raw=true]
+![skybox](https://github.com/professorf/Blender-Sky-Box-Generator/blob/master/Skybox_1.jpg?raw=true)
